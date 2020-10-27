@@ -26,6 +26,7 @@ Based on the results of the t-Test, all manufactoring lots are statistically sim
 
 In considering each manufacturing lot individually against the population mean of 1,500 PSI, all 3 Lots are statistically similar to the population mean of 1,500 PSI although they do measure different p-scores (all above 0.05). 
 Lot 1 is also statistically similar (p-value 0.9048).
+
 ![Lot1TTest.png](Lot1TTest.png)
 
 Lot 2 is statistically similar to the population mean (p-value 0.3451). 
