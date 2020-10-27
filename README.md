@@ -21,4 +21,5 @@ In considering each lot, however, Lot3 is beyond those specifications with a var
 
 ## T-Tests on Suspension Coils
 Based on the results of the t-Test, all manufactoring lots are statistically different from the population mean of 1,500 PSI (the t-Test p-value of 0.2511).
+
 ![TotalTTest.png](TotalTTest.png)
