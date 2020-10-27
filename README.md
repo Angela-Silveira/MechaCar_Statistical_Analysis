@@ -16,5 +16,9 @@ Looking specifically at MechaCar suspension coil data, three lots were analyzed 
 ![TotalSummary.png](TotalSummary.png)
 
 In considering each lot, however, Lot3 is beyond those specifications with a variance of 220.010563. Lot1 & Lot2 are well within the specifications with a variance of 1.146024 & 10.131511 respectively).
+
 ![LotSummary.png](LotSummary.png)
 
+## T-Tests on Suspension Coils
+Based on the results of the t-Test, all manufactoring 
+![TotalTTest.png](TotalTTest.png)
